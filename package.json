@@ -1,0 +1,33 @@
+{
+  "name": "viral-video-api",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "~4.12.3",
+    "googleapis": "~2.0.2",
+    "lodash": "^4.16.4",
+    "mongoose": "~4.0.1"
+  },
+  "devDependencies": {
+    "mocha": "~2.2.1",
+    "chai": "~2.2.0",
+    "sinon": "~1.14.1",
+    "sinon-chai": "~2.7.0",
+    "karma": "~0.12.31",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-mocha": "~0.1.10",
+    "karma-sinon-chai": "~0.3.0",
+    "gulp": "~3.8.10",
+    "gulp-karma": "~0.0.4",
+    "gulp-jshint": "~1.9.0",
+    "gulp-load-plugins": "~0.7.1",
+    "wiredep": "~2.2.0",
+    "require-dir": "~0.1.0"
+  }
+}
